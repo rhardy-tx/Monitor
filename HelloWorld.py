@@ -1,1 +1,1 @@
-print ("Hello world")
+prinxt ("Hello world")
